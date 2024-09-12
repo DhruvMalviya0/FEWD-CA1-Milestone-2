@@ -1,0 +1,66 @@
+body{
+    margin-top: 70px ;
+    background-image: url(https://raw.githubusercontent.com/Kalvium-Program/amazon-clone-boilerplate/main/assets/background%20picture.png);
+        
+}
+
+.navbar1{
+    color: white;
+    border: 2px solid white;
+    display: inline-block;
+    background-color: #121921;
+    margin: 0 0 0 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 75px;
+}
+.navbar1 img{
+    display: inline;
+    height: min-content;
+    width: min-content;
+}
+
+.navbar1 li{
+    margin: 0 0 0 50px;
+    display: inline;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.navbar2{
+    background-color: #1e3856;
+    display: block;
+    height: fit-content;
+    width: 100%;
+    margin-top: 40px;
+    position: relative;
+    border: solid 2px rgb(255, 255, 255);   
+
+}
+.navbar2 li{
+    display: inline;
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+    padding-bottom: 50%;
+}   
+
+.box1{
+    display: inline-block;
+    background-color: white;
+    margin-top: 100px;
+}
+.box2{
+    display: inline-block;
+    background-color: white;
+}
+.box3{
+    display: inline-block;
+    background-color: white;
+}
+
+.line-block{
+    display: inline-block;
+}
